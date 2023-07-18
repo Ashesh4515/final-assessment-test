@@ -1,0 +1,36 @@
+/* App.css */
+
+/* Styles for the navigation bar */
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(230, 216, 216);
+  }
+  
+  /* Styles for the logo section */
+  #logo {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(70, 120, 137);
+  }
+  
+  /* Styles for the person details section */
+  #person-details {
+    padding: 20px;
+    background-color: lightgreen;
+  }
+  
+  /* Styles for the picture form section */
+  #picture-form {
+    padding: 20px;
+    background-color: lightyellow;
+  }
+  
+  /* Styles for the footer */
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+  }
+  
